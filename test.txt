@@ -1,3 +1,4 @@
 1、this is a test file.
 2、test clone.
 3、test branch.
+4、test merge.
