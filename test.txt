@@ -8,3 +8,4 @@ this is remote change.
 test push.
 test pull.
 test local merge.
+test remote merge.
