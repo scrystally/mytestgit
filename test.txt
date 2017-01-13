@@ -6,3 +6,4 @@ this is local change.
 this is remote change.
 5、 test fetch.
 test push.
+test pull.
