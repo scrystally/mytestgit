@@ -11,3 +11,4 @@ test local merge.
 test remote merge.
 6、test rebase master.
 7、test rebase dev.
+8、test pull.
