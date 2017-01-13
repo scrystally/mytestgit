@@ -8,5 +8,6 @@ this is remote change.
 test push.
 test pull.
 test local merge.
-test remote merge.
+test remote merge.
 6、test rebase master.
+7、test rebase dev.
