@@ -1,4 +1,4 @@
-1、this is a test file.
+﻿1、this is a test file.
 2、test clone.
 3、test branch.
 4、test merge.
@@ -13,3 +13,4 @@ test remote merge.
 7、test rebase dev.
 8、test pull.
 9、test merge remote.
+10、test local merge.
